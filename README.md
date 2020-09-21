@@ -1,16 +1,14 @@
-### Hi there 👋
+# Arnaldo Rodrigues
+UX UI Designer e Desenvolvedor Web.
 
-<!--
-**arxnaldo/arxnaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-764573?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnaldoux/)](https://www.linkedin.com/in/arnaldoux/)
+[![Behance](https://img.shields.io/badge/-Behance-764573?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/arxnaldo)](https://www.behance.net/arxnaldo) 
+[![Instagram](https://img.shields.io/badge/-Instagram-764573?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/arxnaldo)](https://instagram.com/arxnaldo)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedor web e designer. Licenciando em Computação pelo Instituto Federal do Sertão Pernambucano, Brasil. Apaixonado por música, novas tecnologias e pela oportunidade de poder aprender coisas novas todos os dias.
+
+Interesse em áreas de desenvolvimento de sistemas para web e mobile, gestão e documentação de projetos, design de interfaces, identidades visuais e campanhas para marketing e mídias digitais.
+
+
+✉️ Contato: **ux.arnaldo@gmail.com**
