@@ -1,5 +1,5 @@
 # Arnaldo Rodrigues
-UX UI Designer e Desenvolvedor Web.
+Designer e Desenvolvedor Web.
 
 <p align="left">
 <img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="ReactJs" width="20" height="20"/>
@@ -14,9 +14,9 @@ UX UI Designer e Desenvolvedor Web.
 [![Instagram](https://img.shields.io/badge/-Instagram-FFFFFF?style=flat-square&logo=instagram&logoColor=5E6366&link=https://instagram.com/arxnaldo)](https://instagram.com/arxnaldo)
 
 
-Desenvolvedor web e designer. Licenciando em Computação pelo Instituto Federal do Sertão Pernambucano, Brasil. Apaixonado por música, novas tecnologias e pela oportunidade de poder aprender coisas novas todos os dias.
+Licenciando em Computação pelo Instituto Federal do Sertão Pernambucano, Brasil. Apaixonado por jogos, músicas e novas tecnologias. Amo poder trocar conhecimentos, ajudar pessoas e ter a oportunidade de poder aprender coisas novas a todo momento.
 
-Interesse em áreas de desenvolvimento de sistemas para web e mobile, gestão e documentação de projetos, design de interfaces, identidades visuais e campanhas para marketing e mídias digitais.
+Interesse em áreas de desenvolvimento de sistemas para web e mobile, gestão e documentação de projetos, design de interfaces, identidades visuais e campanhas para mídias digitais.
 
 
 **contato.arxnaldo@gmail.com**
