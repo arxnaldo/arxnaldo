@@ -19,4 +19,4 @@ Desenvolvedor web e designer. Licenciando em Computação pelo Instituto Federal
 Interesse em áreas de desenvolvimento de sistemas para web e mobile, gestão e documentação de projetos, design de interfaces, identidades visuais e campanhas para marketing e mídias digitais.
 
 
-Contato: **contato.arxnaldo@gmail.com**
+**contato.arxnaldo@gmail.com**
