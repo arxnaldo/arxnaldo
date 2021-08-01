@@ -2,7 +2,6 @@
 Designer e Desenvolvedor Web.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFFFFF?style=flat-square&logo=Linkedin&logoColor=5E6366&link=https://www.linkedin.com/in/arnaldoux/)](https://www.linkedin.com/in/arnaldoux/)
-[![Behance](https://img.shields.io/badge/-Behance-FFFFFF?style=flat-square&logo=Behance&logoColor=5E6366&link=https://www.behance.net/arxnaldo)](https://www.behance.net/arxnaldo) 
 [![Instagram](https://img.shields.io/badge/-Instagram-FFFFFF?style=flat-square&logo=instagram&logoColor=5E6366&link=https://instagram.com/arxnaldo)](https://instagram.com/arxnaldo)
 
 
